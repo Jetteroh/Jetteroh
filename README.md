@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jetteroh. I'm a softver engineer from Hungary
-- 👀 I’m interested in every program languages, but because ot time shortage, in C#; TS.
+- 👀 I’m interested in all program languages, but because of time shortage, in C#; TS.
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
